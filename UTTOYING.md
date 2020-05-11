@@ -14,3 +14,13 @@ Dette dokumentet inneholder noen øvelser for uttøying  av ulike kroppsdeler.
 * Figure 4  
 * Spinal Twist  
 * King Pidgeon  
+
+## Hofte og korsrygg
+
+Av [Nikolai Due Strauman](nikolai-due-strauman_hofta-og-korsryggen.pdf)
+* Ryggliggend rotasjon av korsrygg
+* Rotasjon av korsrygg i ryggleie
+* Liggende figur 4
+* Sittende ryggstrekk med veggstøtte
+* Sittende ryggstrekk med utadrotasjon av armer
+* Sittende figur 4
