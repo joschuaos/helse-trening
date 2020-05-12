@@ -116,3 +116,17 @@ Av Stian Walle Larsen
 * Plank Crossover Calf Stretch  
 * Seated Calf Stretch with Resistance Band  
 * Eccentric Calf Raises  
+
+## Vogue Chest and Shoulder Stretches
+
+||||  
+|:-:|:-:|:-:|  
+|![Lying Chest Stretch](./sara-forsberg_.jpg) | ![Kneeling Shoulder Stretch](./sara-forsberg_.jpg) | ![Standing Shoulder Stretch](./sara-forsberg_.jpg)|  
+| | ![Rubber band reach-around](./sara-forsberg_.jpg) | |  
+
+[By Sara Forsberg](./2020-03-24_stretches.mp4)
+
+* Lying Chest Stretch
+* Kneeling Shoulder Stretch
+* Standing Shoulder Stretch (w/ & wo/ reach-around)
+* Rubber band reach-around
