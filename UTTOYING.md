@@ -76,9 +76,8 @@ Av Stian Walle Larsen
 
 ||||  
 |:-:|:-:|:-:|  
-|![]() | ![]() | ![]()|  
-|![]() | ![]() | ![]()|  
-|![]() | ![]() | ![]()|  
+|![Lying Quad Stretch](./gloveworx_lying-quad-stretch) | ![Simple Quad Stretch](./gloveworx_simple-quad-stretch) | ![Kneeling Quad Stretch](./gloveworx_kneeling-quad-stretch)|  
+|![Lying Pidgeon Progression](./gloveworx_lying-pidgeon-progression) | | ![Frog Pose](./gloveworx_grog-pose)|    
 
 [Gloveworx](https://www.gloveworx.com/blog/quad-stretches-help-become-unstoppable/).
 
