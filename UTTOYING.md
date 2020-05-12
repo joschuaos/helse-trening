@@ -137,17 +137,17 @@ Av Stian Walle Larsen
 
 ||||  
 |:-:|:-:|:-:|  
-|![Camel](./cori-lefkowith_camel.jpg) | !["World's Greatest Stretch"](./cori-lefkowith_worlds-greatest-stretch.jpg) | ![Thread the Needle](./cori-lefkowith_thread-the-needle.jpg)|  
-|![Child's Pose](./cori-lefkowith_childs-pose.jpg) | ![Kneeling Wrist Flexion Stretch](./cori-lefkowith_kneeling-wrist-flexion-stretch.jpg) | ![Kneeling Wrist Extension Stretch](./cori-lefkowith_kneeling-wrist-extension-stretch.jpg)|  
+|!["World's Greatest Stretch"](./cori-lefkowith_worlds-greatest-stretch.jpg) | ![Camel](./cori-lefkowith_camel.jpg) | ![Child's Pose](./cori-lefkowith_childs-pose.jpg)|  
+|![Thread the Needle](./cori-lefkowith_thread-the-needle.jpg) | ![Kneeling Wrist Extension Stretch](./cori-lefkowith_kneeling-wrist-extension-stretch.jpg) | ![Kneeling Wrist Flexion Stretch](./cori-lefkowith_kneeling-wrist-flexion-stretch.jpg)|  
 
 [Redefining Strength](https://redefiningstrength.com/35-stretches-stretch-head-toe/) by Cori Lefkowith.
 
-* Camel
 * "World's Greatest Stretch"
-* Thread the Needle
+* Camel
 * Child's Pose with Reaches
-* Kneeling Wrist Flexion Stretch
+* Thread the Needle
 * Kneeling Wrist Extension Stretch
+* Kneeling Wrist Flexion Stretch
 
 ## Vogue Chest and Shoulder Stretches
 
