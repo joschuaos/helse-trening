@@ -24,3 +24,14 @@ Av [Nikolai Due Strauman](nikolai-due-strauman_hofta-og-korsryggen.pdf)
 * Sittende ryggstrekk med veggstøtte
 * Sittende ryggstrekk med utadrotasjon av armer
 * Sittende figur 4
+
+## Hofte, bein og bryst
+
+Av Stian Walle Larsen
+* Hip flexor stretch (hofte)  
+* Sitting hamstring stretch (med bøyd / strak bein) (hamstring/kalv)  
+* Kneeling peroneal stretch (quadriceps) 
+* Hamstring stretches (med / uten bøyd kne) (hamstring/kalv)  
+* Glute stretch (hofte/rompe) 
+* Supine piriformis stretch (hofte)  
+* Chest stretch (chest)
