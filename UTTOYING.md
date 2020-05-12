@@ -30,7 +30,7 @@ Av [Nikolai Due Strauman](nikolai-due-strauman_hofta-og-korsryggen.pdf)
 ||||  
 |:-:|:-:|:-:|  
 |![Hip flexor stretch](./stian-walle-larsen_hip-flexor-stretch.jpg) | ![Hamstring stretch](./stian-walle-larsen_hamstring-stretch.jpg) | ![Lower leg stretch](./stian-walle-larsen_lower-leg-stretch.jpg)|  
-|![Calv stretch](./stian-walle-larsen_calv-stretch.jpg) | ![Glute stretch](./stian-walle-larsen_glute_stretch.jpg) | ![Supine piriformis stretch](./stian-walle-larsen_supine-piriformis-stretch.jpg)|  
+|![Calv stretch](./stian-walle-larsen_calv-stretch.jpg) | ![Glute stretch](./stian-walle-larsen_glute-stretch.jpg) | ![Supine piriformis stretch](./stian-walle-larsen_supine-piriformis-stretch.jpg)|  
 | | ![Chest stretch](./stian-walle-larsen_chest-stretch.jpg) | | 
 
 Av Stian Walle Larsen
