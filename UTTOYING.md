@@ -36,6 +36,17 @@ Av [Nikolai Due Strauman](nikolai-due-strauman_hofta-og-korsryggen.pdf)
 * Sittende ryggstrekk med utadrotasjon av armer
 * Sittende figur 4
 
+## Feet and Leg Stretches
+
+[Redefining Strength](https://redefiningstrength.com/35-stretches-stretch-head-toe/) by Cori Lefkowith.
+
+* Kneeling Foot Stretch
+* 3-Way Ankle Mobility
+* 3-Way Shin Stretch
+* Standing Hamstring and Calf Stretch
+* Crescent to Hamstring Stretch
+* Cossack Squat
+
 ## Hofte, bein og bryst
 
 ||||  
@@ -117,6 +128,17 @@ Av Stian Walle Larsen
 * Seated Calf Stretch with Resistance Band  
 * Eccentric Calf Raises  
 
+## Core and Upper Body Stretches
+
+[Redefining Strength](https://redefiningstrength.com/35-stretches-stretch-head-toe/) by Cori Lefkowith.
+
+* Camel
+* "World's Greatest Stretch"
+* Thread the Needle
+* Child's Pose with Reaches
+* Kneeling Wrist Flexion Stretch
+* Kneeling Wrist Extension Stretch
+
 ## Vogue Chest and Shoulder Stretches
 
 ||||  
@@ -130,3 +152,4 @@ Av Stian Walle Larsen
 * Kneeling Shoulder Stretch
 * Standing Shoulder Stretch (w/ & wo/ reach-around)
 * Rubber band reach-around
+
