@@ -153,8 +153,8 @@ Av Stian Walle Larsen
 
 ||||  
 |:-:|:-:|:-:|  
-|![Lying Chest Stretch](./sara-forsberg_.jpg) | ![Kneeling Shoulder Stretch](./sara-forsberg_.jpg) | ![Standing Shoulder Stretch](./sara-forsberg_.jpg)|  
-| | ![Rubber band reach-around](./sara-forsberg_.jpg) | |  
+|![Lying Chest Stretch](./sara-forsberg_lying-chest-stretch.jpg) | | ![Kneeling Shoulder Stretch](./sara-forsberg_kneeling-shoulder-stretch.jpg)|
+|![Standing Shoulder Stretch](./sara-forsberg_standing-shoulder-stretch.jpg)| ![Standing Shoulder Stretch](./sara-forsberg_standing-shoulder-stretch-with-reach-around.jpg) | ![Rubber band reach-around](./sara-forsberg_rubber-band-reach-around.jpg)|  
 
 [By Sara Forsberg](./2020-03-24_stretches.mp4)
 
