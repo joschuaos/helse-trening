@@ -38,6 +38,11 @@ Av [Nikolai Due Strauman](nikolai-due-strauman_hofta-og-korsryggen.pdf)
 
 ## Feet and Leg Stretches
 
+||||  
+|:-:|:-:|:-:|  
+|![Kneeling Foot Stretch](./cori-lefkowith_kneeling-foot-stretch.jpg) | ![3-Way Ankle Mobility](./cori-lefkowith_3-way-ankle-mobility.jpg) | ![3-Way Shin Stretch](./cori-lefkowith_3-way-shin-stretch.jpg)|  
+|![Standing Hamstring and Calf Stretch](./cori-lefkowith_standing-hamstring-calf-stretch.jpg) | ![Crescent to Hamstring Stretch](./cori-lefkowith_crescent-to-hamstring-stretch.jpg) | ![Cossack Squat](./cori-lefkowith_cossack-squat.jpg)|  
+
 [Redefining Strength](https://redefiningstrength.com/35-stretches-stretch-head-toe/) by Cori Lefkowith.
 
 * Kneeling Foot Stretch
