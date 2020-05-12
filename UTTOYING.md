@@ -53,3 +53,16 @@ Av Stian Walle Larsen
 * Glute stretch (hofte/rompe) 
 * Supine piriformis stretch (hofte)  
 * Chest stretch (chest)
+
+## Hip Mobility Routine
+
+[GMB](https://gmb.io/hip-mobility/) by Jarlo Ilano.
+
+* Lying Hip Rotations  
+* Piriformis Stretch  
+* Butterfly Stretch  
+* Frog Stretch  
+* Kneeling Lunge  
+* Traveling Butterfly
+* Squatting Internal Rotattions
+* Pidgeon Stretch
