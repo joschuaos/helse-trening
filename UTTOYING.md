@@ -66,3 +66,12 @@ Av Stian Walle Larsen
 * Traveling Butterfly
 * Squatting Internal Rotattions
 * Pidgeon Stretch
+
+## Quad Stretches 
+[Gloveworx](https://www.gloveworx.com/blog/quad-stretches-help-become-unstoppable/).
+
+* Lying Quad Stretch  
+* Simple Quad Stretch
+* Kneeling Quad Stretch
+* Lying Pidgeon Progression
+* Frog Pose
