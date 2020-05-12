@@ -91,7 +91,7 @@ Av Stian Walle Larsen
 
 ||||  
 |:-:|:-:|:-:|  
-|![Seated Toe Touch](./gloveworx_seated-toe-touch.jpg) | ![Hurdler Stretch](./gloveworx_hurdler-stretch.jpg) | ![Standing Cross-Leg Toe Touch](./gloveworx_standing cross-leg-toe-touch.jpg)|  
+|![Seated Toe Touch](./gloveworx_seated-toe-touch.jpg) | ![Hurdler Stretch](./gloveworx_hurdler-stretch.jpg) | ![Standing Cross-Leg Toe Touch](./gloveworx_standing-cross-leg-toe-touch.jpg)|  
 |![High Kicks](./gloveworx_high-kicks.jpg) | | ![Standing Butterfly](./gloveworx_standing-butterfly.jpg)|  
 
 [Gloveworx](https://www.gloveworx.com/blog/five-hamstring-stretches-become-unstoppable/).
