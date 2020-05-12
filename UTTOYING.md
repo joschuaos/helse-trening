@@ -17,6 +17,11 @@ Dette dokumentet inneholder noen øvelser for uttøying  av ulike kroppsdeler.
 
 ## Hofte og korsrygg
 
+||||  
+|:-:|:-:|:-:|  
+|![Ryggliggende rotasjon av korsrygg](./nikolai-due-strauman_rotasjon-korsrygg-1.jpg) | ![Rotasjon-av korsrygg i ryggleie](./nikolai-due-strauman_rotasjon-korsrygg-2.jpg) | ![Liggende figur 4](./nikolai-due-strauman_liggende-figur-4.jpg)|  
+|![Sittende rygstrekk meg veggstøtte](./nikolai-due-strauman_ryggstrekk-vegg.jpg) | ![Sittende ryggstrekk med utadrotasjon av armer](./nikolai-due-strauman_ryggstrekk-armrotasjon.jpg) | ![Sittende figur 4](./nikolai-due-strauman_sittende-figur-4.jpg)|  
+
 Av [Nikolai Due Strauman](nikolai-due-strauman_hofta-og-korsryggen.pdf)
 * Ryggliggend rotasjon av korsrygg
 * Rotasjon av korsrygg i ryggleie
