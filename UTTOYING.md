@@ -4,7 +4,6 @@ Dette dokumentet inneholder noen øvelser for uttøying  av ulike kroppsdeler.
 
 ## Hip openers 
 
-
 ||||  
 |:-:|:-:|:-:|  
 |![Butterfly](./lisa-winters-cox_butterfly-2.png) | ![Knee to Ankle](./lisa-winters-cox_knee-to-ankle.png) | ![Cow Face](./lisa-winters-cox_cow-face.png)|  
@@ -56,6 +55,12 @@ Av Stian Walle Larsen
 
 ## Hip Mobility Routine
 
+||||  
+|:-:|:-:|:-:|  
+|![Lying Hip Rotations](./jarlo-ilano_lying-hip-rotations.jpg) | ![Piriformis Stretch](./jarlo-ilano_piriformis-stretch.jpg) | ![Butterfly Stretch](./jarlo-ilano_butterfly-stretch.jpg)|  
+|![Frog Stretch](./jarlo-ilano_frog-stretch.jpg) | ![Daddy Ryan Hurst](./jarlo-ilano_daddy-ryan-hurst.jpg) | ![Kneeling Lunge](./jarlo-ilano_kneeling-lunge.jpg)|  
+|![Traveling Butterfly](./jarlo-ilano_traveling-butterfly.jpg) | ![Squatting Internal Rotations](./jarlo-ilano_squatting-internal-rotations.jpg) | ![Pidgeon Stretch](./jarlo-ilano_pidgeon-stretch.jpg)| 
+
 [GMB](https://gmb.io/hip-mobility/) by Jarlo Ilano.
 
 * Lying Hip Rotations  
@@ -64,10 +69,17 @@ Av Stian Walle Larsen
 * Frog Stretch  
 * Kneeling Lunge  
 * Traveling Butterfly
-* Squatting Internal Rotattions
+* Squatting Internal Rotations
 * Pidgeon Stretch
 
 ## Quad Stretches 
+
+||||  
+|:-:|:-:|:-:|  
+|![]() | ![]() | ![]()|  
+|![]() | ![]() | ![]()|  
+|![]() | ![]() | ![]()|  
+
 [Gloveworx](https://www.gloveworx.com/blog/quad-stretches-help-become-unstoppable/).
 
 * Lying Quad Stretch  
@@ -77,6 +89,13 @@ Av Stian Walle Larsen
 * Frog Pose
 
 ## Hamstring Stretches 
+
+||||  
+|:-:|:-:|:-:|  
+|![]() | ![]() | ![]()|  
+|![]() | ![]() | ![]()|  
+|![]() | ![]() | ![]()|  
+
 [Gloveworx](https://www.gloveworx.com/blog/five-hamstring-stretches-become-unstoppable/).
 
 * Seated Toe Touch
@@ -86,6 +105,13 @@ Av Stian Walle Larsen
 * Standing Butterfly
 
 ## Calf Stretches 
+
+||||  
+|:-:|:-:|:-:|  
+|![]() | ![]() | ![]()|  
+|![]() | ![]() | ![]()|  
+|![]() | ![]() | ![]()| 
+
 [Gloveworx](https://www.gloveworx.com/blog/5-calf-stretches-become-unstoppable/).
 
 * Brace Calf Stretch  
