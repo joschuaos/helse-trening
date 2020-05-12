@@ -106,9 +106,8 @@ Av Stian Walle Larsen
 
 ||||  
 |:-:|:-:|:-:|  
-|![]() | ![]() | ![]()|  
-|![]() | ![]() | ![]()|  
-|![]() | ![]() | ![]()| 
+|![Brace Calf Stretch](./gloveworx_brace-calf-stretch.jpg) | ![Downward Facing Dog](./gloveworx_downward-facing-dog.jpg) | ![Plank Crossover Calf Stretch](./gloveworx_crossover-calf-stretch.jpg)|  
+|![Seated Calf Stretch](./gloveworx_seated-calf-stretch.jpg) | | ![Eccentric Calf Raises](./gloveworx_eccentric-calf-raises.jpg)|  
 
 [Gloveworx](https://www.gloveworx.com/blog/5-calf-stretches-become-unstoppable/).
 
