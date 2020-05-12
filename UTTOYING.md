@@ -75,3 +75,12 @@ Av Stian Walle Larsen
 * Kneeling Quad Stretch
 * Lying Pidgeon Progression
 * Frog Pose
+
+## Hamstring Stretches 
+[Gloveworx](https://www.gloveworx.com/blog/five-hamstring-stretches-become-unstoppable/).
+
+* Seated Toe Touch
+* Hurdler Stretch
+* Standing Cross-Leg Toe Touch
+* High Kicks
+* Standing Butterfly
