@@ -4,6 +4,13 @@ Dette dokumentet inneholder noen øvelser for uttøying  av ulike kroppsdeler.
 
 ## Hip openers 
 
+
+||||  
+|:-:|:-:|:-:|  
+|![Butterfly](./lisa-winters-cox_butterfly-2.png) | ![Knee to Ankle](./lisa-winters-cox_knee-to-ankle.png) | ![Cow Face](./lisa-winters-cox_cow-face.png)|  
+|![Seated Forward Fold](./lisa-winters-cox_seated-forward-fold.png) | ![Namaste](./lisa-winters-cox_namaste.png) | ![Straddle](./lisa-winters-cox_straddle.png)|  
+| ![Figure 4](./lisa-winters-cox_figure-4.png) | ![Spinal Twist](./lisa-winters-cox_spinal-twist.png) | ![King Pidgeon](./lisa-winters-cox_king-pidgeon.png) | 
+
 [![Hip-opening youa stretches](lisa-winters-cox_hip-openers-1.jpg)](https://www.youtube.com/watch?v=YxKq84cF6Eg&list=PLCNBOxsx5-HxSH4Aj2N8j-7MYCB0YySYV&index=4&t=0s) by Lisa Winters Cox.
 
 * Butterfly (with forward fold)  
