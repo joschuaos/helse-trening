@@ -84,3 +84,12 @@ Av Stian Walle Larsen
 * Standing Cross-Leg Toe Touch
 * High Kicks
 * Standing Butterfly
+
+## Calf Stretches 
+[Gloveworx](https://www.gloveworx.com/blog/5-calf-stretches-become-unstoppable/).
+
+* Brace Calf Stretch  
+* Downward Facing Dog  
+* Plank Crossover Calf Stretch  
+* Seated Calf Stretch with Resistance Band  
+* Eccentric Calf Raises  
