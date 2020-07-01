@@ -11,3 +11,15 @@ Flyes på maskina.
 
 Sittende benkpress.  
 Sidepress.  
+
+# Legg og bein
+Squat
+Dead lift 
+
+Lunge
+Step up
+
+Leg extension
+Leg curl
+
+Legg press
