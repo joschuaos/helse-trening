@@ -23,3 +23,13 @@ Leg extension
 Leg curl  
 
 Legg press  
+
+# Rygg
+
+Nedtrekk (rygg) 
+Roing (sittende) 
+
+Laterals med vekter. 
+Onwrhwad shoulder press.
+
+Nakken. 
