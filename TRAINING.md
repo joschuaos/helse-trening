@@ -13,13 +13,13 @@ Sittende benkpress.
 Sidepress.  
 
 # Legg og bein
-Squat
-Dead lift 
+Squat  
+Dead lift  
 
-Lunge
-Step up
+Lunge  
+Step up  
 
-Leg extension
-Leg curl
+Leg extension  
+Leg curl  
 
-Legg press
+Legg press  
