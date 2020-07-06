@@ -24,15 +24,14 @@ Leg curl
 
 Calf raise (sittende, stående)
 
-# Rygg
+# Rygg og skuldrer
+Lat pulldown  
+Seated cable row  
 
-Nedtrekk (rygg) 
-Roing (sittende) 
+Bent-over dumbbell row on bench  
+Overhead barbell shoulder press  
 
-Laterals med vekter. 
-Onwrhwad shoulder press.
-
-Nakken. 
+Standing barbell shrugs  
 
 # Biceps 
 
