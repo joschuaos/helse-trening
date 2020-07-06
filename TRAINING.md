@@ -35,11 +35,11 @@ Standing barbell shrugs
 
 # Biceps 
 
-Alternating incline dumbbell curls 
+Alternating incline dumbbell curls  
 Alternating seated hammer curls  
 
 Barbell curl  
 Standing reverse barbell curl  
 
-Cable rotation innover og utover 
+Cable rotation innover og utover  
 Zottman curl  
