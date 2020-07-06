@@ -22,7 +22,7 @@ Step up
 Leg extension  
 Leg curl  
 
-Legg press  
+Calf raise (sittende, stående)
 
 # Rygg
 
