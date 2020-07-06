@@ -1,7 +1,7 @@
 # Bryst og triceps
 Cable chest fly (high/low)  
 Push ups  
-Cable push down (rope/)
+Cable push down (rope / straight bar)
 
 Decline barbell benchpress  
 Seated/standing overhead dumbbell extension.  
