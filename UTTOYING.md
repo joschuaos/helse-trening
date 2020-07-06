@@ -6,9 +6,9 @@ Dette dokumentet inneholder noen øvelser for uttøying  av ulike kroppsdeler.
 
 ||||  
 |:-:|:-:|:-:|  
-|![Butterfly](./lisa-winters-cox_butterfly-2.png) | ![Knee to Ankle](./lisa-winters-cox_knee-to-ankle.png) | ![Cow Face](./lisa-winters-cox_cow-face.png)|  
-|![Seated Forward Fold](./lisa-winters-cox_seated-forward-fold.png) | [![Namaste](./lisa-winters-cox_namaste.png)](https://www.youtube.com/watch?v=YxKq84cF6Eg&list=PLCNBOxsx5-HxSH4Aj2N8j-7MYCB0YySYV&index=4&t=0s) | ![Straddle](./lisa-winters-cox_straddle.png)|  
-| ![Figure 4](./lisa-winters-cox_figure-4.png) | ![Spinal Twist](./lisa-winters-cox_spinal-twist.png) | ![King Pidgeon](./lisa-winters-cox_king-pidgeon.png) | 
+|![Butterfly](./media/bilder/lisa-winters-cox_butterfly-2.png) | ![Knee to Ankle](./media/bilder/lisa-winters-cox_knee-to-ankle.png) | ![Cow Face](./media/bilder/lisa-winters-cox_cow-face.png)|  
+|![Seated Forward Fold](./media/bilder/lisa-winters-cox_seated-forward-fold.png) | [![Namaste](./media/bilder/lisa-winters-cox_namaste.png)](https://www.youtube.com/watch?v=YxKq84cF6Eg&list=PLCNBOxsx5-HxSH4Aj2N8j-7MYCB0YySYV&index=4&t=0s) | ![Straddle](./media/bilder/lisa-winters-cox_straddle.png)|  
+| ![Figure 4](./media/bilder/lisa-winters-cox_figure-4.png) | ![Spinal Twist](./media/bilder/lisa-winters-cox_spinal-twist.png) | ![King Pidgeon](./media/bilder/lisa-winters-cox_king-pidgeon.png) | 
 
 [Hip openers](https://www.youtube.com/watch?v=YxKq84cF6Eg&list=PLCNBOxsx5-HxSH4Aj2N8j-7MYCB0YySYV&index=4&t=0s) by Lisa Winters Cox.
 
@@ -25,8 +25,8 @@ Dette dokumentet inneholder noen øvelser for uttøying  av ulike kroppsdeler.
 
 ||||  
 |:-:|:-:|:-:|  
-|![Ryggliggende rotasjon av korsrygg](./nikolai-due-strauman_rotasjon-korsrygg-1.jpg) | ![Rotasjon-av korsrygg i ryggleie](./nikolai-due-strauman_rotasjon-korsrygg-2.jpg) | ![Liggende figur 4](./nikolai-due-strauman_liggende-figur-4.jpg)|  
-|![Sittende rygstrekk meg veggstøtte](./nikolai-due-strauman_ryggstrekk-vegg.jpg) | ![Sittende ryggstrekk med utadrotasjon av armer](./nikolai-due-strauman_ryggstrekk-armrotasjon.jpg) | ![Sittende figur 4](./nikolai-due-strauman_sittende-figur-4.jpg)|  
+|![Ryggliggende rotasjon av korsrygg](./media/bilder/nikolai-due-strauman_rotasjon-korsrygg-1.jpg) | ![Rotasjon-av korsrygg i ryggleie](./media/bilder/nikolai-due-strauman_rotasjon-korsrygg-2.jpg) | ![Liggende figur 4](./media/bilder/nikolai-due-strauman_liggende-figur-4.jpg)|  
+|![Sittende rygstrekk meg veggstøtte](./media/bilder/nikolai-due-strauman_ryggstrekk-vegg.jpg) | ![Sittende ryggstrekk med utadrotasjon av armer](./media/bilder/nikolai-due-strauman_ryggstrekk-armrotasjon.jpg) | ![Sittende figur 4](./media/bilder/nikolai-due-strauman_sittende-figur-4.jpg)|  
 
 Av [Nikolai Due Strauman](nikolai-due-strauman_hofta-og-korsryggen.pdf)
 * Ryggliggend rotasjon av korsrygg
@@ -40,8 +40,8 @@ Av [Nikolai Due Strauman](nikolai-due-strauman_hofta-og-korsryggen.pdf)
 
 ||||  
 |:-:|:-:|:-:|  
-|![Kneeling Foot Stretch](./cori-lefkowith_kneeling-foot-stretch.jpg) | ![3-Way Ankle Mobility](./cori-lefkowith_3-way-ankle-mobility.jpg) | ![3-Way Shin Stretch](./cori-lefkowith_3-way-shin-stretch.jpg)|  
-|![Standing Hamstring and Calf Stretch](./cori-lefkowith_standing-hamstring-calf-stretch.jpg) | ![Crescent to Hamstring Stretch](./cori-lefkowith_crescent-to-hamstring-stretch.jpg) | ![Cossack Squat](./cori-lefkowith_cossack-squat.jpg)|  
+|![Kneeling Foot Stretch](./media/bilder/cori-lefkowith_kneeling-foot-stretch.jpg) | ![3-Way Ankle Mobility](./media/bilder/cori-lefkowith_3-way-ankle-mobility.jpg) | ![3-Way Shin Stretch](./media/bilder/cori-lefkowith_3-way-shin-stretch.jpg)|  
+|![Standing Hamstring and Calf Stretch](./media/bilder/cori-lefkowith_standing-hamstring-calf-stretch.jpg) | ![Crescent to Hamstring Stretch](./media/bilder/cori-lefkowith_crescent-to-hamstring-stretch.jpg) | ![Cossack Squat](./media/bilder/cori-lefkowith_cossack-squat.jpg)|  
 
 [Redefining Strength](https://redefiningstrength.com/35-stretches-stretch-head-toe/) by Cori Lefkowith.
 
@@ -56,9 +56,9 @@ Av [Nikolai Due Strauman](nikolai-due-strauman_hofta-og-korsryggen.pdf)
 
 ||||  
 |:-:|:-:|:-:|  
-|![Hip flexor stretch](./stian-walle-larsen_hip-flexor-stretch.jpg) | ![Hamstring stretch](./stian-walle-larsen_hamstring-stretch.jpg) | ![Lower leg stretch](./stian-walle-larsen_lower-leg-stretch.jpg)|  
-|![Calv stretch](./stian-walle-larsen_calv-stretch.jpg) | ![Glute stretch](./stian-walle-larsen_glute-stretch.jpg) | ![Supine piriformis stretch](./stian-walle-larsen_supine-piriformis-stretch.jpg)|  
-| | ![Chest stretch](./stian-walle-larsen_chest-stretch.jpg) | | 
+|![Hip flexor stretch](./media/bilder/stian-walle-larsen_hip-flexor-stretch.jpg) | ![Hamstring stretch](./media/bilder/stian-walle-larsen_hamstring-stretch.jpg) | ![Lower leg stretch](./media/bilder/stian-walle-larsen_lower-leg-stretch.jpg)|  
+|![Calv stretch](./media/bilder/stian-walle-larsen_calv-stretch.jpg) | ![Glute stretch](./media/bilder/stian-walle-larsen_glute-stretch.jpg) | ![Supine piriformis stretch](./media/bilder/stian-walle-larsen_supine-piriformis-stretch.jpg)|  
+| | ![Chest stretch](./media/bilder/stian-walle-larsen_chest-stretch.jpg) | | 
 
 Av Stian Walle Larsen
 * Hip flexor stretch (hofte)  
@@ -73,9 +73,9 @@ Av Stian Walle Larsen
 
 ||||  
 |:-:|:-:|:-:|  
-|![Lying Hip Rotations](./jarlo-ilano_lying-hip-rotations.jpg) | ![Piriformis Stretch](./jarlo-ilano_piriformis-stretch.jpg) | ![Butterfly Stretch](./jarlo-ilano_butterfly-stretch.jpg)|  
-|![Frog Stretch](./jarlo-ilano_frog-stretch.jpg) | ![Daddy Ryan Hurst](./jarlo-ilano_daddy-ryan-hurst.jpg) | ![Kneeling Lunge](./jarlo-ilano_kneeling-lunge.jpg)|  
-|![Traveling Butterfly](./jarlo-ilano_traveling-butterfly.jpg) | ![Squatting Internal Rotations](./jarlo-ilano_squatting-internal-rotations.jpg) | ![Pidgeon Stretch](./jarlo-ilano_pidgeon-stretch.jpg)| 
+|![Lying Hip Rotations](./media/bilder/jarlo-ilano_lying-hip-rotations.jpg) | ![Piriformis Stretch](./media/bilder/jarlo-ilano_piriformis-stretch.jpg) | ![Butterfly Stretch](./media/bilder/jarlo-ilano_butterfly-stretch.jpg)|  
+|![Frog Stretch](./media/bilder/jarlo-ilano_frog-stretch.jpg) | ![Daddy Ryan Hurst](./media/bilder/jarlo-ilano_daddy-ryan-hurst.jpg) | ![Kneeling Lunge](./media/bilder/jarlo-ilano_kneeling-lunge.jpg)|  
+|![Traveling Butterfly](./media/bilder/jarlo-ilano_traveling-butterfly.jpg) | ![Squatting Internal Rotations](./media/bilder/jarlo-ilano_squatting-internal-rotations.jpg) | ![Pidgeon Stretch](./media/bilder/jarlo-ilano_pidgeon-stretch.jpg)| 
 
 [GMB](https://gmb.io/hip-mobility/) by Jarlo Ilano.
 
@@ -92,8 +92,8 @@ Av Stian Walle Larsen
 
 ||||  
 |:-:|:-:|:-:|  
-|![Lying Quad Stretch](./gloveworx_lying-quad-stretch.jpg) | ![Simple Quad Stretch](./gloveworx_simple-quad-stretch.jpg) | ![Kneeling Quad Stretch](./gloveworx_kneeling-quad-stretch.jpg)|  
-|![Lying Pidgeon Progression](./gloveworx_lying-pidgeon-progression.jpg) | | ![Frog Pose](./gloveworx_frog-pose.jpg)|    
+|![Lying Quad Stretch](./media/bilder/gloveworx_lying-quad-stretch.jpg) | ![Simple Quad Stretch](./media/bilder/gloveworx_simple-quad-stretch.jpg) | ![Kneeling Quad Stretch](./media/bilder/gloveworx_kneeling-quad-stretch.jpg)|  
+|![Lying Pidgeon Progression](./media/bilder/gloveworx_lying-pidgeon-progression.jpg) | | ![Frog Pose](./media/bilder/gloveworx_frog-pose.jpg)|    
 
 [Gloveworx](https://www.gloveworx.com/blog/quad-stretches-help-become-unstoppable/).
 
@@ -107,8 +107,8 @@ Av Stian Walle Larsen
 
 ||||  
 |:-:|:-:|:-:|  
-|![Seated Toe Touch](./gloveworx_seated-toe-touch.jpg) | ![Hurdler Stretch](./gloveworx_hurdler-stretch.jpg) | ![Standing Cross-Leg Toe Touch](./gloveworx_standing-cross-leg-toe-touch.jpg)|  
-|![High Kicks](./gloveworx_high-kicks.jpg) | | ![Standing Butterfly](./gloveworx_standing-butterfly.jpg)|  
+|![Seated Toe Touch](./media/bilder/gloveworx_seated-toe-touch.jpg) | ![Hurdler Stretch](./media/bilder/gloveworx_hurdler-stretch.jpg) | ![Standing Cross-Leg Toe Touch](./media/bilder/gloveworx_standing-cross-leg-toe-touch.jpg)|  
+|![High Kicks](./media/bilder/gloveworx_high-kicks.jpg) | | ![Standing Butterfly](./media/bilder/gloveworx_standing-butterfly.jpg)|  
 
 [Gloveworx](https://www.gloveworx.com/blog/five-hamstring-stretches-become-unstoppable/).
 
@@ -122,8 +122,8 @@ Av Stian Walle Larsen
 
 ||||  
 |:-:|:-:|:-:|  
-|![Brace Calf Stretch](./gloveworx_brace-calf-stretch.jpg) | ![Downward Facing Dog](./gloveworx_downward-facing-dog.jpg) | ![Plank Crossover Calf Stretch](./gloveworx_crossover-calf-stretch.jpg)|  
-|![Seated Calf Stretch](./gloveworx_seated-calf-stretch.jpg) | | ![Eccentric Calf Raises](./gloveworx_eccentric-calf-raises.jpg)|  
+|![Brace Calf Stretch](./media/bilder/gloveworx_brace-calf-stretch.jpg) | ![Downward Facing Dog](./media/bilder/gloveworx_downward-facing-dog.jpg) | ![Plank Crossover Calf Stretch](./media/bilder/gloveworx_crossover-calf-stretch.jpg)|  
+|![Seated Calf Stretch](./media/bilder/gloveworx_seated-calf-stretch.jpg) | | ![Eccentric Calf Raises](./media/bilder/gloveworx_eccentric-calf-raises.jpg)|  
 
 [Gloveworx](https://www.gloveworx.com/blog/5-calf-stretches-become-unstoppable/).
 
@@ -137,8 +137,8 @@ Av Stian Walle Larsen
 
 ||||  
 |:-:|:-:|:-:|  
-|!["World's Greatest Stretch"](./cori-lefkowith_worlds-greatest-stretch.jpg) | ![Camel](./cori-lefkowith_camel.jpg) | ![Child's Pose](./cori-lefkowith_childs-pose.jpg)|  
-|![Thread the Needle](./cori-lefkowith_thread-the-needle.jpg) | ![Kneeling Wrist Extension Stretch](./cori-lefkowith_kneeling-wrist-extension-stretch.jpg) | ![Kneeling Wrist Flexion Stretch](./cori-lefkowith_kneeling-wrist-flexion-stretch.jpg)|  
+|!["World's Greatest Stretch"](./media/bilder/cori-lefkowith_worlds-greatest-stretch.jpg) | ![Camel](./media/bilder/cori-lefkowith_camel.jpg) | ![Child's Pose](./media/bilder/cori-lefkowith_childs-pose.jpg)|  
+|![Thread the Needle](./media/bilder/cori-lefkowith_thread-the-needle.jpg) | ![Kneeling Wrist Extension Stretch](./media/bilder/cori-lefkowith_kneeling-wrist-extension-stretch.jpg) | ![Kneeling Wrist Flexion Stretch](./media/bilder/cori-lefkowith_kneeling-wrist-flexion-stretch.jpg)|  
 
 [Redefining Strength](https://redefiningstrength.com/35-stretches-stretch-head-toe/) by Cori Lefkowith.
 
@@ -153,10 +153,10 @@ Av Stian Walle Larsen
 
 ||||  
 |:-:|:-:|:-:|  
-|![Lying Chest Stretch](./sara-forsberg_lying-chest-stretch.jpg) | | ![Kneeling Shoulder Stretch](./sara-forsberg_kneeling-shoulder-stretch.jpg)|
-|![Standing Shoulder Stretch](./sara-forsberg_standing-shoulder-stretch.jpg)| ![Standing Shoulder Stretch](./sara-forsberg_standing-shoulder-stretch-with-reach-around.jpg) | ![Rubber band reach-around](./sara-forsberg_rubber-band-reach-around.jpg)|  
+|![Lying Chest Stretch](./media/bilder/sara-forsberg_lying-chest-stretch.jpg) | | ![Kneeling Shoulder Stretch](./media/bilder/sara-forsberg_kneeling-shoulder-stretch.jpg)|
+|![Standing Shoulder Stretch](./media/bilder/sara-forsberg_standing-shoulder-stretch.jpg)| ![Standing Shoulder Stretch](./media/bilder/sara-forsberg_standing-shoulder-stretch-with-reach-around.jpg) | ![Rubber band reach-around](./media/bilder/sara-forsberg_rubber-band-reach-around.jpg)|  
 
-[By Sara Forsberg](./2020-03-24_stretches.mp4)
+[By Sara Forsberg](./media/bilder/2020-03-24_stretches.mp4)
 
 * Lying Chest Stretch
 * Kneeling Shoulder Stretch
