@@ -12,6 +12,23 @@ Seated pec deck fly
 Seated chest press  
 Side press  
 
+# Bryst I
+Cable cross-over (high-to-low / low-to-high)  
+Suspended push-up  
+Incline dumbbell bench press  
+Barbell bench press  
+Seated pec deck machine  
+
+# Bryst II
+Close-grip bench press  
+Push-ups  
+Dip  
+Plate press-out  
+Reistance band pull-apart  
+
+Source:  
+[10 Best Chest Exercises for Men](https://manofmany.com/lifestyle/fitness/10-best-chest-exercises-for-men)
+
 # Legg og bein
 Squat  
 Dead lift  
