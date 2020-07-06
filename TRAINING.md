@@ -1,16 +1,16 @@
 # Bryst og triceps
-Kabler opp.  
-Push ups.  
-Triceps nedtrekk med stange.  
+Cable chest fly (high/low)  
+Push ups  
+Cable push down (rope/)
 
-Facedown incline benchpress.  
-Triceps extension over hodet.  
+Decline barbell benchpress  
+Seated/standing overhead dumbbell extension.  
 
-Triceps extension på benk.  
-Flyes på maskina.  
+Triceps kick-back  
+Seated pec deck fly
 
-Sittende benkpress.  
-Sidepress.  
+Seated chest press  
+Side press  
 
 # Legg og bein
 Squat  
