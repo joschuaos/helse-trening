@@ -52,11 +52,12 @@ Standing barbell shrugs
 
 # Biceps 
 
-||||  
-|:-:|:-:|:-:|  
-|![dumbbell curl](./media/bilder/biceps/dumbbell-curl.gif) | ![](./media/bilder/biceps/) | ![hammer curl](./media/bilder/biceps/hammer-curl.gif)|  
-|![EZ-bar curl](./media/bilder/biceps/ez-bar-curl.gif) | ![](./media/bilder/biceps/) | ![reverse EZ-bar curl](./media/bilder/biceps/reverse-ez-bar-curl.gif)|
-|![external cable shoulder rotation](./media/bilder/biceps/external-shoulder-rotation-cable.gif) | ![internal cable shoulder rotation](./media/bilder/biceps/internal-shoulder-rotation-cable.gif) | ![Zottman curl](./media/bilder/biceps/zottman-curl.gif)|  
+|||  
+|:-:|:-:|  
+|![dumbbell curl](./media/bilder/biceps/dumbbell-curl.gif) | ![hammer curl](./media/bilder/biceps/hammer-curl.gif)|  
+|![EZ-bar curl](./media/bilder/biceps/ez-bar-curl.gif) | ![reverse EZ-bar curl](./media/bilder/biceps/reverse-ez-bar-curl.gif)|
+|![external cable shoulder rotation](./media/bilder/biceps/external-shoulder-rotation-cable.gif) | ![internal cable shoulder rotation](./media/bilder/biceps/internal-shoulder-rotation-cable.gif)|  
+|![Zottman curl](./media/bilder/biceps/zottman-curl.gif)|  
 
 (Alternating) dumbbell curls: seated or standing  
 (Alternating) hammer curls: seated or standing  
