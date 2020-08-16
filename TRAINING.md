@@ -1,4 +1,13 @@
 # Bryst og triceps
+
+|||  
+|:-:|:-:|  
+|![](./media/bilder/bryst/cable-chest-fly-low-1.gif) | ![](./media/bilder/bryst/cable-chest-fly-high-1.gif)|  
+|![](./media/bilder/bryst/pushup-close-grip.gif) | ![](./media/bilder/triceps/cable-push-down-2.gif)|  
+|![](./media/bilder/bryst/decline-bench-press.gif) | ![](./media/bilder/triceps/dumbbell-overhead-extension-3.gif)|  
+|![](./media/bilder/triceps/triceps-kick-back.gif) | ![](./media/bilder/bryst/pec-deck.gif)|  
+|![](./media/bilder/bryst/bench-press-1.gif) | ![](./media/bilder/bryst/side-chest-press.gif)|  
+
 Cable chest fly (high/low)  
 Push ups  
 Cable push down (rope / straight bar)
