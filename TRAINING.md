@@ -1,4 +1,3 @@
-test
 # Bryst og triceps
 
 |||  
