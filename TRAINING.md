@@ -39,11 +39,18 @@ Source:
 [10 Best Chest Exercises for Men](https://manofmany.com/lifestyle/fitness/10-best-chest-exercises-for-men)
 
 # Legg og bein
+|||
+|:-:|:-:|
+|![Squat](./media/bilder/bein/squat.gif) | ![Squat](./media/bilder/bein/deadlift-straight.gif)|
+|![Lunge](./media/bilder/bein/lunge.gif)|![Step-up](./media/bilder/bein/stepup.gif) | 
+|![Leg extension](./media/bilder/bein/leg-extension.gif) | ![Lunge](./media/bilder/bein/leg-curl-lying.gif)|
+|![Seated calf raise](./media/bilder/bein/calf-raise-seated.gif) | ![Standing calf raise](./media/bilder/bein/calf-raise-standing.gif)|
+
 Squat  
 Dead lift  
 
 Lunge  
-Step up  
+Step-up  
 
 Leg extension  
 Leg curl  
