@@ -1,6 +1,4 @@
-# Mandag
-
-Rygg og biceps
+# Mandag: Rygg og biceps
 
 |||  
 |:-:|:-:|  
@@ -9,34 +7,27 @@ Rygg og biceps
 |![lat pull down](./media/bilder/rygg/lat-pull-down-1.gif)|![lat pull down](./media/bilder/rygg/lat-pull-down-2.gif)|
 |![external cable shoulder rotation](./media/bilder/biceps/external-shoulder-rotation-cable.gif) | ![internal cable shoulder rotation](./media/bilder/biceps/internal-shoulder-rotation-cable.gif)|  
 
-EZ-bar curl: standing or on a preacher bench (håndflate opp)  
-Reverse EZ-bar curl: standing (håndflate ned)  
+- [ ] EZ-bar curl: standing or on a preacher bench (håndflate opp)  
+- [ ] Reverse EZ-bar curl: standing (håndflate ned)  
+- [ ] Lat pulldown  
+- [ ] Seated cable row  
+- [ ] Bent-over dumbbell row on bench  
+- [ ] Cable rotation innover og utover  
 
-Lat pulldown  
-Seated cable row  
-
-Bent-over dumbbell row on bench  
-
-Cable rotation innover og utover  
-
-# Onsdag
-
-Bein og core
+# Onsdag: Bein og core
 
 |||
 |:-:|:-:|
 |![Squat](./media/bilder/bein/squat.gif) | ![Deadlift](./media/bilder/rygg/deadlift-straight.gif)|
 |![Leg extension](./media/bilder/bein/leg-extension.gif) | ![Leg curl](./media/bilder/bein/leg-curl-lying.gif)|
 
-Markløft eller squats
-Legg curls
-Leg extension
-Woodchipper up and down 
-Sykling på gulvet
+- [ ] Markløft eller squats
+- [ ] Legg curls
+- [ ] Leg extension
+- [ ] Woodchipper up and down 
+- [ ] Sykling på gulvet
 
-# Fredag
-
-Bryst og triceps
+# Fredag: Bryst og triceps
 
 |||  
 |:-:|:-:|  
@@ -46,9 +37,8 @@ Bryst og triceps
 |![Triceps kick back](./media/bilder/triceps/triceps-kick-back.gif) | ![Pec deck fly](./media/bilder/bryst/pec-deck.gif)|  
 |![Chest press](./media/bilder/bryst/bench-press-1.gif) | ![Side chest press](./media/bilder/bryst/side-chest-press.gif)|  
 
-Cable chest fly (high/low)  
-Push ups eller bench press  
-Cable push down (rope / straight bar)
-
-Seated/standing overhead dumbbell extension eller Triceps kick-back  
-Seated pec deck fly
+- [ ] Cable chest fly (high/low)  
+- [ ] Push ups eller bench press  
+- [ ] Cable push down (rope / straight bar)
+- [ ] Seated/standing overhead dumbbell extension eller Triceps kick-back  
+- [ ] Seated pec deck fly
