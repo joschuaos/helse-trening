@@ -22,6 +22,7 @@ Seated chest press
 Side chest press  
 
 # Bryst I
+
 Cable cross-over (high-to-low / low-to-high)  
 Suspended push-up  
 Incline dumbbell bench press  
@@ -29,6 +30,7 @@ Barbell bench press
 Seated pec deck machine  
 
 # Bryst II
+
 Close-grip bench press  
 Push-ups  
 Dip  
@@ -39,6 +41,7 @@ Source:
 [10 Best Chest Exercises for Men](https://manofmany.com/lifestyle/fitness/10-best-chest-exercises-for-men)
 
 # Legg og bein
+
 |||
 |:-:|:-:|
 |![Squat](./media/bilder/bein/squat.gif) | ![Squat](./media/bilder/rygg/deadlift-straight.gif)|
@@ -58,6 +61,14 @@ Leg curl
 Calf raise (sittende, stående)
 
 # Rygg og skuldrer
+
+|||  
+|:-:|:-:| 
+|![bent over row](./media/bilder/rygg/bent-over-row.gif)|![deadlift](./media/bilder/rygg/dumbbell-single-arm-row.gif)|
+|![seated cable row](./media/bilder/rygg/seated-cable-row.gif)|![deadlift](./media/bilder/rygg/deadlift-straight.gif)|
+|![lat pull down](./media/bilder/rygg/lat-pull-down-1.gif)|![lat pull down](./media/bilder/rygg/lat-pull-down-2.gif)|
+|![barbell shrug](./media/bilder/skulder/barbell-shrug.gif) | ![dumbbell shrug](./media/bilder/skulder/dumbbell-shrug.gif)| 
+
 Lat pulldown  
 Seated cable row  
 
@@ -65,12 +76,6 @@ Bent-over dumbbell row on bench
 Overhead barbell shoulder press  
 
 Standing barbell shrugs  
-|||  
-|:-:|:-:| 
-|![bent over row](./media/bilder/rygg/bent-over-row.gif)|![deadlift](./media/bilder/rygg/dumbbell-single-arm-row.gif)|
-|![seated cable row](./media/bilder/rygg/seated-cable-row.gif)|![deadlift](./media/bilder/rygg/deadlift-straight.gif)|
-|![lat pull down](./media/bilder/rygg/lat-pull-down-1.gif)|![lat pull down](./media/bilder/rygg/lat-pull-down-2.gif)|
-|![barbell shrug](./media/bilder/skulder/barbell-shrug.gif) | ![dumbbell shrug](./media/bilder/skulder/dumbbell-shrug.gif)| 
 
 # Biceps 
 
