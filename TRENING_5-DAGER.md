@@ -13,7 +13,7 @@ Push ups
 Cable push down (rope / straight bar)
 
 Decline barbell benchpress  
-Seated/standing overhead dumbbell extension.  
+Seated/standing overhead dumbbell extension  
 
 Triceps kick-back  
 Seated pec deck fly
@@ -44,9 +44,9 @@ Source:
 
 |||
 |:-:|:-:|
-|![Squat](./media/bilder/bein/squat.gif) | ![Squat](./media/bilder/rygg/deadlift-straight.gif)|
+|![Squat](./media/bilder/bein/squat.gif) | ![Deadlift](./media/bilder/rygg/deadlift-straight.gif)|
 |![Lunge](./media/bilder/bein/lunge.gif)|![Step-up](./media/bilder/bein/stepup.gif) | 
-|![Leg extension](./media/bilder/bein/leg-extension.gif) | ![Lunge](./media/bilder/bein/leg-curl-lying.gif)|
+|![Leg extension](./media/bilder/bein/leg-extension.gif) | ![Leg curl](./media/bilder/bein/leg-curl-lying.gif)|
 |![Seated calf raise](./media/bilder/bein/calf-raise-seated.gif) | ![Standing calf raise](./media/bilder/bein/calf-raise-standing.gif)|
 
 Squat  
@@ -64,7 +64,7 @@ Calf raise (sittende, stående)
 
 |||  
 |:-:|:-:| 
-|![bent over row](./media/bilder/rygg/bent-over-row.gif)|![deadlift](./media/bilder/rygg/dumbbell-single-arm-row.gif)|
+|![bent over row](./media/bilder/rygg/bent-over-row.gif)|![dumbbell single arm row](./media/bilder/rygg/dumbbell-single-arm-row.gif)|
 |![seated cable row](./media/bilder/rygg/seated-cable-row.gif)|![deadlift](./media/bilder/rygg/deadlift-straight.gif)|
 |![lat pull down](./media/bilder/rygg/lat-pull-down-1.gif)|![lat pull down](./media/bilder/rygg/lat-pull-down-2.gif)|
 |![barbell shrug](./media/bilder/skulder/barbell-shrug.gif) | ![dumbbell shrug](./media/bilder/skulder/dumbbell-shrug.gif)| 
