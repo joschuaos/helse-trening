@@ -34,7 +34,7 @@ Som på fredager.
 - [ ] Seated/standing overhead dumbbell extension eller Triceps kick-back  
 - [ ] Seated pec deck fly
 
-## Torsdag: Rygg & Triceps (Y)
+## Torsdag: Rygg & biceps (Y)
 
 Som på mandager.
 
