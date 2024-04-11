@@ -16,6 +16,8 @@
 
 ## Tirsdag: BodyPump (E) & Bein (Y)
 
+Som på fredager.
+
 ## Onsdag: Bryst og triceps (E & Y)
 
 |||  
@@ -33,6 +35,8 @@
 - [ ] Seated pec deck fly
 
 ## Torsdag: Rygg & Triceps (Y)
+
+Som på mandager.
 
 ## Fredag: Bein og core (E & Y)
 
