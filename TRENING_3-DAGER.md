@@ -1,4 +1,4 @@
-# Mandag: Rygg og biceps
+## Mandag: Rygg og biceps (E & Y)
 
 |||  
 |:-:|:-:|  
@@ -14,20 +14,9 @@
 - [ ] Bent-over dumbbell row on bench  
 - [ ] Cable rotation innover og utover  
 
-# Onsdag: Bein og core
+## Tirsdag: BodyPump (E) & Bein (Y)
 
-|||
-|:-:|:-:|
-|![Squat](./media/bilder/bein/squat.gif) | ![Deadlift](./media/bilder/rygg/deadlift-straight.gif)|
-|![Leg extension](./media/bilder/bein/leg-extension.gif) | ![Leg curl](./media/bilder/bein/leg-curl-lying.gif)|
-
-- [ ] Markløft eller squats
-- [ ] Legg curls
-- [ ] Leg extension
-- [ ] Woodchipper up and down 
-- [ ] Sykling på gulvet
-
-# Fredag: Bryst og triceps
+## Onsdag: Bryst og triceps (E & Y)
 
 |||  
 |:-:|:-:|  
@@ -42,3 +31,18 @@
 - [ ] Cable push down (rope / straight bar)
 - [ ] Seated/standing overhead dumbbell extension eller Triceps kick-back  
 - [ ] Seated pec deck fly
+
+## Torsdag: Rygg & Triceps (Y)
+
+## Fredag: Bein og core (E & Y)
+
+|||
+|:-:|:-:|
+|![Squat](./media/bilder/bein/squat.gif) | ![Deadlift](./media/bilder/rygg/deadlift-straight.gif)|
+|![Leg extension](./media/bilder/bein/leg-extension.gif) | ![Leg curl](./media/bilder/bein/leg-curl-lying.gif)|
+
+- [ ] Markløft eller squats
+- [ ] Legg curls
+- [ ] Leg extension
+- [ ] Woodchipper up and down 
+- [ ] Sykling på gulvet
