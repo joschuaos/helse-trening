@@ -14,11 +14,15 @@
 - [ ] Bent-over dumbbell row on bench  
 - [ ] Cable rotation innover og utover  
 
-## Tirsdag: BodyPump (E) & Bein (Y)
+## Tirsdag: BodyPump (E) & Bryst & triceps (Y)
+
+Som på torsdager
+
+## Onsdager:  Yoga (E) & Bein (Y)
 
 Som på fredager.
 
-## Onsdag: Bryst og triceps (E & Y)
+## Torsdager: Bryst og triceps (E & Y)
 
 |||  
 |:-:|:-:|  
@@ -33,10 +37,6 @@ Som på fredager.
 - [ ] Cable push down (rope / straight bar)
 - [ ] Seated/standing overhead dumbbell extension eller Triceps kick-back  
 - [ ] Seated pec deck fly
-
-## Torsdag: Rygg & biceps (Y)
-
-Som på mandager.
 
 ## Fredag: Bein og core (E & Y)
 
